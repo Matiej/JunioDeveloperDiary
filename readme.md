@@ -10,4 +10,16 @@
 
 _About project:_
 
+- target: training full stack project
+- Angular 7.0
+- Java 11
+- Spring boot > 2.0
+- Spring data JPA
+
+_Current status:_
+
+- stauts: project is waiting. Found new job. Need time to be comfortable in new place
+- plans: finish trainign project.
+
+
 
