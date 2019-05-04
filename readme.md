@@ -21,6 +21,7 @@ _Current status:_
 - stauts: project is waiting. Found new job. Need time to be comfortable in new place
 - plans: finish trainign project.
 - new job
+- new git user name
 
 
 
